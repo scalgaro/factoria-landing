@@ -1,0 +1,25 @@
+{
+  "name": "factoria-landing",
+  "version": "1.0.0",
+  "description": "Landing page en construcción con Vite",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  },
+  "keywords": [
+    "landing-page",
+    "construction",
+    "vite",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Tu Nombre",
+  "license": "MIT"
+} 
